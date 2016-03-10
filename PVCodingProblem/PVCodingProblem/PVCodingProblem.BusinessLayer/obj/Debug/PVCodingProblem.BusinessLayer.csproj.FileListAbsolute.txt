@@ -1,0 +1,9 @@
+C:\Users\pbusch\Desktop\PVCodingProblem\PVCodingProblem.BusinessLayer\bin\Debug\PVCodingProblem.BusinessLayer.dll
+C:\Users\pbusch\Desktop\PVCodingProblem\PVCodingProblem.BusinessLayer\bin\Debug\PVCodingProblem.BusinessLayer.pdb
+C:\Users\pbusch\Desktop\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.dll
+C:\Users\pbusch\Desktop\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.pdb
+C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\bin\Debug\PVCodingProblem.BusinessLayer.dll
+C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\bin\Debug\PVCodingProblem.BusinessLayer.pdb
+C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.dll
+C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.pdb

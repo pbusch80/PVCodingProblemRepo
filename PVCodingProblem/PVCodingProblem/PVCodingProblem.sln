@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVCodingProblem.WebForms", "PVCodingProblem.WebForms\PVCodingProblem.WebForms.csproj", "{1FF1D09D-4BFE-4F93-913A-27BF610C1ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVCodingProblem.BusinessLayer", "PVCodingProblem.BusinessLayer\PVCodingProblem.BusinessLayer.csproj", "{B49C07AF-D0DC-4652-814D-CFF780555567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVCodingProblem.WinForms", "PVCodingProblem.WinForms\PVCodingProblem.WinForms.csproj", "{FFA12CA1-7B1A-4761-B3BE-80BCD4D9D898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF1D09D-4BFE-4F93-913A-27BF610C1ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF1D09D-4BFE-4F93-913A-27BF610C1ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF1D09D-4BFE-4F93-913A-27BF610C1ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF1D09D-4BFE-4F93-913A-27BF610C1ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49C07AF-D0DC-4652-814D-CFF780555567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49C07AF-D0DC-4652-814D-CFF780555567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49C07AF-D0DC-4652-814D-CFF780555567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49C07AF-D0DC-4652-814D-CFF780555567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA12CA1-7B1A-4761-B3BE-80BCD4D9D898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA12CA1-7B1A-4761-B3BE-80BCD4D9D898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA12CA1-7B1A-4761-B3BE-80BCD4D9D898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA12CA1-7B1A-4761-B3BE-80BCD4D9D898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
