@@ -20,3 +20,14 @@ C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingPr
 C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.EventTypeDisplay.resources
 C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.Properties.Resources.resources
 C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.csproj.GenerateResource.Cache
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\bin\Debug\PVCodingProblem.WinForms.exe.config
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.exe
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.pdb
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\bin\Debug\PVCodingProblem.WinForms.exe
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\bin\Debug\PVCodingProblem.WinForms.pdb
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\bin\Debug\PVCodingProblem.BusinessLayer.dll
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\bin\Debug\PVCodingProblem.BusinessLayer.pdb
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.csprojResolveAssemblyReference.cache
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.EventTypeDisplay.resources
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.Properties.Resources.resources
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.WinForms\obj\Debug\PVCodingProblem.WinForms.csproj.GenerateResource.Cache

@@ -7,3 +7,8 @@ C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\bin\Debug\PVCod
 C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.csprojResolveAssemblyReference.cache
 C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.dll
 C:\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.pdb
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\bin\Debug\PVCodingProblem.BusinessLayer.dll
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\bin\Debug\PVCodingProblem.BusinessLayer.pdb
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.dll
+C:\GitHub\PVCodingProblemRepo\PVCodingProblem\PVCodingProblem\PVCodingProblem.BusinessLayer\obj\Debug\PVCodingProblem.BusinessLayer.pdb
